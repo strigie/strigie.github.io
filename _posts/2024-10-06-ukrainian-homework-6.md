@@ -8,6 +8,8 @@ tags:
   - Homework
 ---
 
+So I study some Ukrainian language courses on my spare time and this is some home work. Домашне завдання
+
 1. Svara på frågorna till texten «Наша квартира»
     1. У яко́му буди́нку знахо́диться кварти́ра?  
     Квартира не в старому будинку, тобто в досить сучасному будинку.
