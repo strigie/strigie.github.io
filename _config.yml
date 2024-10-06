@@ -70,7 +70,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/strige"
+      url: "https://github.com/strigie"
 
 defaults:
   # _posts
