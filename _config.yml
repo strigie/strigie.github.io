@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "David Haupt"
   avatar : "/assets/images/parrot.png"
-  bio    : "Platform, Networking, Security in no particular order"
+  bio    : "Platform, Networking, Security and probably some other random stuff in no particular order"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
